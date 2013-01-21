@@ -1,0 +1,16 @@
+<?php
+/*
+	Override the default configuration with your own
+*/
+
+$config = array();
+
+// Prowl API Key
+$config['apiKey'] = '';
+
+//
+// Weather Configuration
+//
+
+$config['weather'] = array();
+$config['weather']['location'] = '94103';
